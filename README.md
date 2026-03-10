@@ -1,2 +1,10 @@
-# DEWS_my-project
-2024 선린인터넷고등학교 영재교육원 산출물대회 조원 박한결, 이시우, 이주원
+# About
+Disaster Evacuation Warning Site
+<br>
+submitted as a final project for the Sunrin Informational Technology High School Genius Program '24
+
+# Features
+select a disaster type, and step by step interactive guidelines will show with images
+
+# Stack
+<del>pure javascript</del>
