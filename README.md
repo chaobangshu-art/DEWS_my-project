@@ -1,4 +1,4 @@
-# About
+# About write by @soosoh
 Disaster Evacuation Warning Site
 <br>
 submitted as a final project for the Sunrin Informational Technology High School Genius Program '24
